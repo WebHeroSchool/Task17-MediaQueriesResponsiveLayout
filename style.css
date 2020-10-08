@@ -1,0 +1,61 @@
+.header__title {
+  color: cornsilk;
+  text-transform: uppercase;
+  background-color: crimson;
+  clear: none;
+  padding: 0.02em;
+}
+
+.header__nav {
+  background-color: crimson;
+  display: flex;
+  justify-content: space-around;
+}
+
+a {
+  color: cornsilk;
+  text-decoration: none;
+}
+
+* {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: lighter;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+input {
+  font-weight: normal;
+  margin: 15px;
+  background-color: crimson;
+  border-color: crimson;
+  color: cornsilk;
+  height: 30px;
+  width: 210px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+}
+
+input:hover {
+  cursor: pointer;
+}
+
+.entry__link {
+  color: crimson;
+  display: flex;
+  justify-content: space-around;
+}
+
+.entry__link_additional {
+  color: crimson;
+}
+
+.footer__title {
+  font-size: 20px;
+}
+
+.article {
+  text-shadow: 1px 1px 2px burlywood, 0 0 1em honeydew;
+}
