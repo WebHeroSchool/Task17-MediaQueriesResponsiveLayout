@@ -1,3 +1,69 @@
+@media (min-width:280px) {
+  html {
+    font-size: 12px;
+  }
+}
+
+@media (min-width:320px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+@media (mid-width:375px) {
+  html {
+    font-size: 17px;
+  }
+}
+
+@media (min-width:481px) {
+  html {
+    font-size: 22px;
+  }
+}
+
+@media (min-width:540px) {
+  html {
+    font-size: 25px;
+  }
+}
+
+@media (min-width:641px) {
+  html  {
+    font-size: 32px;
+  }
+}
+
+@media (min-width:653px) {
+  html {
+    font-size: 34px;
+  }
+}
+
+@media (min-width:961px) {
+  html  {
+    font-size: 40px;
+  }
+}
+
+@media (min-width:1024px) {
+  html {
+    font-size: 42px;
+  }
+}
+
+@media (min-width:1025px) {
+  html {
+    font-size: 43px;
+  }
+}
+
+@media (min-width:1281px) {
+  html {
+    font-size: 55px;
+  }
+}
+
 .header__title {
   color: cornsilk;
   text-transform: uppercase;
