@@ -186,7 +186,7 @@ input:hover {
    }
  }
 
- @media (mid-width:375px) {
+ @media (min-width:375px) {
    article {
      font-size: 16px;
    }
